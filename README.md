@@ -1,3 +1,2 @@
 # Titanic
-- Задача предсказания выживших пассажиров на корабле Титаник
-- Ссылка на соревнование: https://www.kaggle.com/c/titanic
+- Competition link: https://www.kaggle.com/c/titanic
